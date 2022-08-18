@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwdnmd"]=self["webpackChunkwdnmd"]||[]).push([[647],{1848:function(e,n,l){l.r(n),l.d(n,{default:function(){return h}});var t=function(){var e=this,n=e.$createElement,l=e._self._c||n;return l("div",{staticStyle:{"min-height":"200px",height:"100vh","background-color":"aqua"}},[e._v("HelloWDNMD !!!")])},u=[],r={name:"HelloWDNMD"},a=r,c=l(1001),i=(0,c.Z)(a,t,u,!1,null,null,null),h=i.exports}}]);
+//# sourceMappingURL=hellowdnmd.548d4af6.js.map
